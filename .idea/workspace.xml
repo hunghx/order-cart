@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10fa6a8b-d350-44c5-82c1-ac0074a4ab6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ra/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ra/model/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ra/model/service/order/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ra/model/service/order/OrderServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b524ca5a-8cdc-4fc4-9894-08e2758d56bb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b524ca5a-8cdc-4fc4-9894-08e2758d56bb.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b524ca5a-8cdc-4fc4-9894-08e2758d56bb/storage_v2/_src_/schema/qlbh1.sPRqBg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b524ca5a-8cdc-4fc4-9894-08e2758d56bb/storage_v2/_src_/schema/qlbh1.sPRqBg.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/cart.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/MD4/Spring-FrameWork-CRUD&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;8e72a68c010e8e9ee5cf12233c26d3d0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Downloads/Spring-FrameWork-CRUD",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "8e72a68c010e8e9ee5cf12233c26d3d0"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.741" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.741" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="hot-swap-classes" />
@@ -171,6 +178,7 @@
       <workItem from="1684373981269" duration="1980000" />
       <workItem from="1684401903873" duration="17000" />
       <workItem from="1684402571706" duration="137000" />
+      <workItem from="1684643751671" duration="3136000" />
     </task>
     <servers />
   </component>
